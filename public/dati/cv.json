@@ -1,0 +1,217 @@
+{
+  "en": {
+    "header": {
+      "icon": "fa-heading",
+      "title": "ugo mezzogori",
+      "descr": "Computer Scientist",
+      "mail": "ugo.mezzogori@gmail.com",
+      "cell": "+39 348 72 47 622",
+      "taxcode": "MZZGUO85C03C912L",
+      "address": "via ferruccio parri 5, Bologna, 40128 Italy",
+      "linkedin": "https://www.linkedin.com/in/ugo-mezzogori-a2545a19"
+    },
+    "experiences": {
+      "icon": "fa-code",
+      "title": "experiences",
+      "descr": "",
+      "list": [
+        {
+          "ds": "2023-01-10",
+          "de": "present",
+          "title": "Analyst Programmer on Antifraud Motor Claim",
+          "enterprise": "Crif S.p.a. under Lefo S.r.l.",
+          "where": "Bologna (BO), Italy",
+          "descr": ".NET, Visual Studio, Linq, Git, Jira, SqlServer."
+        },
+		{
+          "ds": "2021-08-01",
+          "de": "present",
+          "title": "Analyst Programmer on Optical Character Recognition",
+          "enterprise": "Crif S.p.a. under Lefo S.r.l.",
+          "where": "Bologna (BO), Italy",
+          "descr": "c#, .NET Framework 4.8, Visual Studio, Linq, Git, Jira, Google Cloud, Azure Microsoft, Regula OCR and Abbyy."
+        },
+        {
+          "ds": "2020-05-01",
+          "de": "2021-07-31",
+          "title": "Analyst Programmer on Facility Management",
+          "enterprise": "Natisoft S.r.l.",
+          "where": "Bologna (BO), Italy",
+          "descr": "NodeJS, JavaScript, PHP4, SQL, Android Java, Git, Google Cloud: project 'Franco', Latex, CSS and HTML5."
+        },
+        {
+          "ds": "2016-09-01",
+          "de": "2020-04-30",
+          "title": "Analyst Programmer on Customer Relationship Management",
+          "enterprise": "Xgroup S.r.l.",
+          "where": "Casalecchio (BO), Italy",
+          "descr": "NodeJS, JavaScript, BootStrap, NodeJs, C#, Linq, N1QL, SQL, Android Java, Git, Object-C Apple,  Latex, CSS, HTML5, SqlServer, CouchBase and SqlAnywhere."
+        },
+        {
+          "ds": "2015-07-01",
+          "de": "2016-07-31",
+          "title": "Research Grant",
+          "enterprise": "University of Bologna - Dipartimento of Ingegneria Industriale",
+          "where": "Bologna (BO), Italy",
+          "descr": "Development of a software interface based on Augmented Reality for clothing. Blender, UE4, ArToolKit, PYthon and C++."
+        }
+      ]
+    },
+    "education": {
+      "icon": "fa-building-columns",
+      "title": "education",
+      "descr": "",
+      "list": [
+        {
+          "ds": "2019-11-01",
+          "de": "2020-01-01",
+          "title": "Machine Learning: From Data to Decisions",
+          "enterprise": "MIT, Massachusetts Institute of Technology",
+          "where": "Bologna (BO), Italy",
+          "descr": ""
+        },
+        {
+          "ds": "2010-09-01",
+          "de": "2015-03-01",
+          "title": "Master's Degree in Computer Science",
+          "enterprise": "University of Bologna",
+          "where": "Bologna (BO), Italy",
+          "descr": "Degree: 96/110, Specialization: Theoretical Computer Science, Image Analysis and Types in Programming Languages;"
+        },
+        {
+          "ds": "2004-09-01",
+          "de": "2010-03-01",
+          "title": "Bachelor's Degree in Computer Science",
+          "enterprise": "University of Bologna",
+          "where": "Bologna (BO), Italy",
+          "descr": "Degree: 89/110, Specialization: Security and Web Technology;"
+        },
+        {
+          "ds": "1999-09-01",
+          "de": "2004-07-01",
+          "title": "Diploma di Perito Industriale in Computer Science",
+          "enterprise": "Istituto Tecnico Industriale Statale",
+          "where": "Ravenna (RA), Italy",
+          "descr": "Degree: 85/100, Specialization: Computer Science, Project ABACUS"
+        }
+      ]
+    },
+    "info": {
+      "icon": "fa-circle-info",
+      "title": "info",
+      "descr": "I am a Computer Scientist and an SNSI Diving Instructor. I was born in Comacchio (FE), Italy on 03.03.1985. Currently, I live in via Ferruccio Parri 5, Bologna (BO), 40128 Italy."
+    },
+    "languages": {
+      "icon": "fa-language",
+      "title": "languages",
+      "descr": "",
+      "list": [
+        {
+          "title": "Italian",
+          "descr": "Mother tongue",
+          "vote": "5"
+        },
+        {
+          "title": "English",
+          "descr": "B2 CILTA UNIBO, Bologna, Italy",
+          "vote": "3"
+        },
+        {
+          "title": "Greek",
+          "descr": "A1, Bologna, Italy",
+          "vote": "1"
+        }
+      ]
+    },
+    "patents": {
+      "icon": "fa-id-card",
+      "title": "patents",
+      "descr": "",
+      "list": [
+        {
+          "code": "FE5095326E",
+          "descr": "License B",
+          "icon": ""
+        },
+        {
+          "code": "OWI11000432IT",
+          "descr": "Scuba Diving Instructor SNSI",
+          "icon": ""
+        }
+      ]
+    },
+    "courses": {
+      "icon": "fa-certificate",
+      "title": "courses",
+      "descr": "Computer Scientist",
+      "list": [
+        {
+          "code": "OpenCV",
+          "descr": "Computer Vision I",
+          "icon": ""
+        },
+        {
+          "code": "M001",
+          "descr": "MongoDB Basis",
+          "icon": ""
+        },
+        {
+          "code": "IAL ER 24 - 34594",
+          "descr": "App Development with Android 0",
+          "icon": "",
+          "where": "Xgroup SRL"
+        },
+        {
+          "code": "5719",
+          "descr": "The development of apps for business process management",
+          "icon": ""
+        },
+        {
+          "code": "GDPR",
+          "descr": "The processing and protection of personal data on the basis of the GDPR",
+          "icon": ""
+        }
+      ]
+    },
+    "skills": {
+      "icon": "fa-chart-pie",
+      "title": "skills",
+      "descr": "",
+      "list": [
+        {
+          "name": "Git",
+          "value": 90
+        },
+        {
+            "name": "Latex",
+            "value": 70
+        },
+        {
+            "name": "C#",
+            "value": 80
+        },
+        {
+            "name": "JS",
+            "value": 90
+        },
+        {
+            "name": "AngularJS",
+            "value": 60
+        },
+        {
+            "name": "PHP4",
+            "value": 20
+        },
+        {
+            "name": "SqlServer",
+            "value": 50
+        }
+      ]
+    },
+    "privacy": {
+      "icon": "fa-lock",
+      "title": "privacy",
+      "descr": "I authorize the processing of my personal data present in the curriculum vitae pursuant to Legislative Decree 30 June 2003, n. 196 and of the GDPR (EU Regulation 2016/679)"
+    }
+  }
+}
