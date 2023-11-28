@@ -8,7 +8,7 @@ class Languages extends React.Component {
             const obj = this.props.cv ? this.props.cv.languages :  "";
             title = obj.title ? obj.title : "";
             listLanguages = obj.list.map( (item,i) =>  {
-                let vote = item.vote.map(x => x);
+                //let vote = item.vote.map(x => x);
                 return (
                     <div className="row" key= {i}>
                         <div className="col">
